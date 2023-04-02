@@ -17,4 +17,4 @@
 *..properties linguist-detectable=false
 *.xc* linguist-detectable=false
 Podfile linguist-detectable=false
-CMakeLists.txt linguist-detectable=false
+CMakeLists.txt linguist-detectable=false 
