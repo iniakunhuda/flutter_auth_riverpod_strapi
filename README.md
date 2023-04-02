@@ -30,6 +30,8 @@ Running in local / deploy to production
 <br/>
 <img src="https://raw.githubusercontent.com/iniakunhuda/flutter_auth_riverpod_strapi/main/preview/strapi.png" alt="feed example" width="100%">
 
+<br/><br/>
+
 ### Rest API
 
 
