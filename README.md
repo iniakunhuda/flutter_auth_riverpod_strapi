@@ -1,5 +1,3 @@
-## Flutter Simple Auth
-
 <h1 align="center">Flutter Simple Auth with Riverpod & Strapi</h1>
 
 <br>
